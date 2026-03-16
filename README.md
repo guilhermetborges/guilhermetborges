@@ -1,7 +1,12 @@
 # 👋 Olá! Eu sou Guilherme Borges
 
 ## 👨‍💻 Sobre Mim
-Desenvolvedor Full-Stack e Engenheiro de Dados focado em automação, extração de dados e arquitetura de sistemas.
+Atualmente graduando em **Sistemas de Informação pelo IFG**. Sou **Engenheiro de Dados**, com experiência prévia como **Desenvolvedor Backend**, **Analytics Engineer focado em E-commerce** e **Crawler Developer**. 
+
+Experiência na contrução de arquiteturas de dados robustas, automações complexas e extração de dados em escala, unindo eficiência técnica com visão de negócio.
+
+Desenvolvo e orquestro pipelines de dados escaláveis, unindo eficiência técnica e propósito. Trabalho com Python, AWS, Airflow, APIs REST, Web Scraping, FastAPI e Databricks para automação de processos de ingestão e transformação.
+
 
 ---
 
