@@ -20,6 +20,6 @@ Desenvolvo e orquestro pipelines de dados escaláveis, unindo eficiência técni
 ### 📫 Contato
 <p align="left">
 <a href="https://linkedin.com/in/guilherme-gtb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:01borgesguilherme@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://gtbdev.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"></a>
+<a href="mailto:01borgesguilherme@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
